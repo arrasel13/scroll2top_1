@@ -1,0 +1,26 @@
+.menu {
+  height: 100px;
+  background-color: #cdcdcd;
+  position: fixed;
+  top: 200;
+  width: 100%;
+}
+
+.transparent {
+  background-color: red;
+  transition: 0.3s;
+}
+
+.wrapper {
+  height: 2000px;
+}
+
+/* Scroll to top */
+.sttop {
+  position: relative;
+}
+.sttop_wrap {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
